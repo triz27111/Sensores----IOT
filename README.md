@@ -63,6 +63,7 @@ O objetivo deste projeto é consolidar conceitos de Internet das Coisas (IoT) po
 * Firmware **MicroPython** já gravado no ESP32 (baixe em: [micropython.org](https://micropython.org/download/esp32/))
 
 ---
-* Autoras: **triz27111**
+* Autoras: Beatriz Palermo e Beatriz Rodrigues
 * GitHub: [@triz27111](https://github.com/triz27111)
+
 
